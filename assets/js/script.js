@@ -40,7 +40,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['CEO Saturn Botnet', 'join -> https://discord.gg/qujP3fM7eU'];
+  let text = ['CEO Saturn Botnet', 'join -> https://discord.gg/wdt5vD8xjW'];
 
   text.forEach(function (language, index) {
     typer.move(null);
