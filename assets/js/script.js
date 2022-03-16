@@ -75,7 +75,7 @@ function switchScreen() {
   });
 
   ['background', 'rain'].forEach(function (audioName) {
-    let fullPath = `assets/audio/${audioName}.mp3`;
+    let fullPath = `assets/${audioName}.mp3`;
 
     let audioElement = document.createElement('audio');
     audioElement.setAttribute('src', fullPath);
