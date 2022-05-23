@@ -40,7 +40,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['outlaw boy'];
+  let text = ['outlaw kid'];
 
   text.forEach(function (language, index) {
     typer.move(null);
