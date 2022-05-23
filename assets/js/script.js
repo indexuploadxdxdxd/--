@@ -13,7 +13,7 @@ function openSocial(type) {
       url = 'https://github.com/haxuu1337';
       break;
     case 'twitter':
-      url = 'https://twitter.com/dkyuzi';
+      url = 'https://twitter.com/KyuziRj';
       break;
     case 'youtube':
       url = 'https://youtube.com/channel/UCUkdwCKFOSWNLOpZWktnXDg';
