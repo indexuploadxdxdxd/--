@@ -9,6 +9,9 @@ function openSocial(type) {
     case 'discord':
       url = 'https://discord.com/users/476482256618127362';
       break;
+    case 'github':
+      url = 'https://github.com/haxuu1337';
+      break;
     case 'twitter':
       url = 'https://twitter.com/KyuziRj';
       break;
