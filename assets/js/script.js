@@ -27,7 +27,7 @@ function startIntroTyping() {
   new TypeIt('#intro-text', {
     speed: 50,
   })
-    .type('Welcome!', { delay: 1200 })
+    .type('WELCOME MY NIGG4', { delay: 1200 })
     .delete(null, { delay: 1000 })
     .type(`${mobile ? 'tap' : 'Press any key'} to enter.`)
     .go();
@@ -40,7 +40,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['outlaw kid'];
+  let text = ['3HUNNA'];
 
   text.forEach(function (language, index) {
     typer.move(null);
